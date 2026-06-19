@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pulkit18code/DSA/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/pulkit18code/DSA/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pulkit18code/DSA/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pulkit18code/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
