@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pulkit18code/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/pulkit18code/DSA/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,9 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pulkit18code/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/pulkit18code/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pulkit18code/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/pulkit18code/DSA/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/pulkit18code/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/pulkit18code/DSA/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pulkit18code/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
